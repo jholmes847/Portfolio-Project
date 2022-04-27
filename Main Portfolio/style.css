@@ -1,0 +1,57 @@
+body {
+  
+ 
+}
+.navbar {
+    overflow: hidden;
+   background: rgba(82, 81, 81, 0.993);
+ 
+  }
+  
+  .navbar a {
+    float: right;
+    font-size: 26px;
+    color: rgb(250, 248, 248);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin: 5px;
+  } 
+  
+  .dropdown {
+    float: right;
+    overflow: hidden;
+    color: black
+    ;
+  }
+  
+  
+  
+  .navbar a:hover  {
+    background-color: rgb(184, 19, 19);
+  }
+  
+  
+
+  
+  .content-footer {
+    margin: 5px;
+    padding: 14px 16px;
+    text-align: center;
+    font-size: 26px;
+    background: rgba(82, 81, 81, 0.993);
+    text-decoration: none;
+    text-underline-offset: none;
+    position:absolute;
+    width: 100%;
+    bottom: 0;
+    
+  }
+  
+  .footer {
+   text-decoration: none;
+   color: black;
+  }
+
+  
+ 
