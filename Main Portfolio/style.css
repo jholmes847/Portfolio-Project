@@ -1,10 +1,14 @@
 body {
-  
+  background: url(https://unsplash.imgix.net/45/ZLSw0SXxThSrkXRIiCdT_DSC_0345.jpg?q=75&w=1080&h=1080&fit=max&fm=jpg&auto=format&s=857f07b76abac23a7fb7161cc7b12a46);
+  object-fit: cover;
+
  
 }
 .navbar {
     overflow: hidden;
    background: rgba(82, 81, 81, 0.993);
+   opacity: 0.5;
+   color: white;
  
   }
   
@@ -39,9 +43,8 @@ body {
     padding: 14px 16px;
     text-align: center;
     font-size: 26px;
-    background: rgba(82, 81, 81, 0.993);
-    text-decoration: none;
-    text-underline-offset: none;
+    background-color: grey;
+    opacity: 0.4;
     position:absolute;
     width: 100%;
     bottom: 0;
@@ -51,7 +54,14 @@ body {
   .footer {
    text-decoration: none;
    color: black;
+   opacity: 0.5;
   }
 
   
  
+ 
+
+
+
+ 
+

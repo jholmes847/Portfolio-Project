@@ -1,0 +1,97 @@
+
+.section-heading {
+    text-align:center;
+    color:#102C4E;
+    margin-top: 18px;
+    margin-bottom:70px;
+    text-decoration: dotted;
+    font-weight: bold;
+    
+  }
+
+  .column-4 {
+    float: left;
+    width: 21%;
+    padding: 10px;
+    margin:30px;
+    height: 250px;
+  }
+
+  body {
+    
+      background:url(https://4.bp.blogspot.com/_AQ0vcRxFu0A/S9shDGGyMTI/AAAAAAAAAYk/kn3WTkY2LoQ/s1600/IMG_0714.JPG);
+  }
+ 
+  
+  
+  
+  .project-1 {
+   background-color: white;
+   opacity: 0.5;
+    max-width:100%;
+    max-height:100%;
+   
+    border:1px solid black;
+  }
+  
+  .project-2 {
+    background-color:#209BFF;
+    opacity: 0.5;
+    border:1px solid black;
+  }
+  
+  .project-3 {
+    background-color:#112d4e;
+    opacity: 0.8;
+    border:1px solid black;
+  }
+  
+  .project-4 {
+    background-color: brown;
+    opacity: 0.8;
+    border:1px solid black;
+  }
+  
+  .project-5 {
+    background-color:green;
+    opacity: 0.8;
+    border:1px solid black;
+  }
+  
+  .project-6 {
+     background-color: white;
+     opacity: 0.8;
+      border:1px solid black;
+  }
+  
+  
+
+  .project-text {
+    text-align:center;
+    font-size:50px;
+  }
+
+ .project-1:hover {
+     background-color: #24210d;
+  }
+  .project-2:hover {
+    background-color:#24210d;
+  }
+  
+  .project-3:hover {
+     background-color: #24210d;
+  }
+  
+  .project-4:hover {
+     background-color: #24210d;
+  }
+  
+  .project-5:hover {
+     background-color: #FEDE00;
+  }
+  
+  .project-6:hover {
+     background-color: #FEDE00;
+  }
+  
+ 
