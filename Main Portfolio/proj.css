@@ -1,10 +1,10 @@
 
 .section-heading {
     text-align:center;
-    color:#102C4E;
+    color:#131313;
     margin-top: 18px;
     margin-bottom:70px;
-    text-decoration: dotted;
+    
     font-weight: bold;
     
   }
@@ -19,7 +19,7 @@
 
   body {
     
-      background:url(https://4.bp.blogspot.com/_AQ0vcRxFu0A/S9shDGGyMTI/AAAAAAAAAYk/kn3WTkY2LoQ/s1600/IMG_0714.JPG);
+      background:url(https://4.bp.blogspot.com/-paXNjnTwXo0/UHehwUd8dQI/AAAAAAAACnY/mY_MZG26NBk/s400/Chicago+Skyline+with+Trump.jpg);
   }
  
   
@@ -31,37 +31,37 @@
     max-width:100%;
     max-height:100%;
    
-    border:1px solid black;
+    border:3px solid black;
   }
   
   .project-2 {
-    background-color:#209BFF;
+    background-color:#fdfeff;
     opacity: 0.5;
-    border:1px solid black;
+    border:3px solid black;
   }
   
   .project-3 {
-    background-color:#112d4e;
-    opacity: 0.8;
-    border:1px solid black;
+    background-color:white;
+    opacity: 0.5;
+    border:3px solid black;
   }
   
   .project-4 {
-    background-color: brown;
-    opacity: 0.8;
-    border:1px solid black;
+    background-color: white;
+    opacity: 0.5;
+    border:3px solid black;
   }
   
   .project-5 {
-    background-color:green;
-    opacity: 0.8;
-    border:1px solid black;
+    background-color:white;
+    opacity: 0.5;
+    border:3px solid black;
   }
   
   .project-6 {
      background-color: white;
-     opacity: 0.8;
-      border:1px solid black;
+     opacity: 0.5;
+      border:3px solid black;
   }
   
   
@@ -87,11 +87,11 @@
   }
   
   .project-5:hover {
-     background-color: #FEDE00;
+     background-color: #24210d;
   }
   
   .project-6:hover {
-     background-color: #FEDE00;
+     background-color: #24210d;
   }
   
  
