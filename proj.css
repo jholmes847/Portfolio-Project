@@ -27,7 +27,7 @@
   
   .project-1 {
    background-color: white;
-   opacity: 0.5;
+   opacity: 0.8;
     max-width:100%;
     max-height:100%;
    
@@ -36,50 +36,60 @@
   
   .project-2 {
     background-color:#fdfeff;
-    opacity: 0.5;
+    opacity: 0.8;
     border:3px solid black;
   }
   
   .project-3 {
     background-color:white;
-    opacity: 0.5;
+    opacity: 0.8;
     border:3px solid black;
   }
   
   .project-4 {
     background-color: white;
-    opacity: 0.5;
+    opacity: 0.8;
     border:3px solid black;
   }
   
   .project-5 {
     background-color:white;
-    opacity: 0.5;
+    opacity: 0.8;
     border:3px solid black;
   }
   
   .project-6 {
      background-color: white;
-     opacity: 0.5;
+     opacity: 0.8;
       border:3px solid black;
   }
   
   
 
   .project-text {
+    color: black;
     text-align:center;
     font-size:50px;
   }
 
  .project-1:hover {
-     background-color: #24210d;
+  filter: brightness(150%);
+  box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
+  background-color: #24210d;
+  color: white;
   }
   .project-2:hover {
+    filter: brightness(150%);
+    box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
     background-color:#24210d;
+    color: white;
   }
   
   .project-3:hover {
+    filter: brightness(150%);
+    box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
      background-color: #24210d;
+     color: white;
   }
   
   .project-4:hover {
